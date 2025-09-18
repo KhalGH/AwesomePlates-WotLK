@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: AwesomePlates
+## Version: 1.0
+## Notes: Customized nameplates with distance-based scaling.
+## Author: |cffc41f3bKhal|r
+## SavedVariablesPerCharacter: AwesomePlatesOptionsCharacter
+
+Locales.xml
+Totems.xml
+AwesomePlates_Customize.lua
+AwesomePlates.lua
+AwesomePlates_Config.lua
