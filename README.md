@@ -55,7 +55,7 @@ Please verify your server’s policy to ensure the library is allowed before usi
 4. Restart the game and enable the addon.
 
 ## Recommendations
-AwesomePlates performs frequent visual update operations for scaling and fading each visible nameplate every 0.05 seconds.
+AwesomePlates performs numerous visual update operations for scaling and fading each visible nameplate every 0.05 seconds.
 This can lead to a significant processing load, especially when increasing the nameplate visibility range, which considerably raises the number of elements on screen.
 
 To improve performance, consider the following recommendations:
