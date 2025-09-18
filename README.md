@@ -49,7 +49,7 @@ Private servers may have specific rules regarding the use of client modification
 Please verify your server’s policy to ensure the library is allowed before using it.  
 
 ## Installation
-1. Download the [addon](https://github.com/KhalGH/AwesomePlates-WotLK/releases/download/v1.0/AwesomePlates-v1.0.zip) and optionally the [AwesomeWotlk](https://github.com/KhalGH/AwesomePlates-WotLK/releases/download/v1.0/AwesomeWotlk.7z) library.  
+1. Download the [addon](https://github.com/KhalGH/AwesomePlates-WotLK/releases/download/v1.0/AwesomePlates-v1.0.zip) and the [AwesomeWotlk](https://github.com/KhalGH/AwesomePlates-WotLK/releases/download/v1.0/AwesomeWotlk.7z) library.  
 2. Extract the `!!AwesomePlates` folder into `World of Warcraft/Interface/AddOns/`.  
 3. Extract `AwesomeWotlk.7z` and follow the `Instructions.txt` file to implement it.  
 4. Restart the game and enable the addon.
