@@ -3,7 +3,7 @@
 It may not be compatible with other nameplate addons.
 
 ## Features
-- Modified nameplate appearance (configurable in `_VirtualPlates_Customize.lua`).
+- Modified nameplate appearance (configurable in `AwesomePlates_Customize.lua`).
 - Improved nameplate scanning and handling.
 - Optional nameplate scaling and fading based on distance.
 - Optional distance text displayed on nameplates.
