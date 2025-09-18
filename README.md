@@ -1,5 +1,5 @@
 # AwesomePlates-WotLK
-**AwesomePlates** is a nameplates addon for WoW 3.3.5a, based on [_VirtualPlates](https://www.wowinterface.com/downloads/info14964-_VirtualPlates.html) originally created by Saiket.  
+**AwesomePlates** is a nameplates addon for WoW 3.3.5a, based on [_VirtualPlates](https://www.wowinterface.com/downloads/info14964-_VirtualPlates.html).
 It may not be compatible with other nameplate addons.
 
 ## Features
