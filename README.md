@@ -63,6 +63,6 @@ To improve performance, consider the following recommendations:
 - If performance issues persist but you still want to use the addon, you may consider disabling the dynamic scaling feature using the `/ap scaling` command. Doing so will considerably reduce the processing required on each update cycle.
 
 ## Information  
-- **Addon Version:** 1.3  
+- **Addon Version:** 1.0  
 - **Game Version:** 3.3.5a (WotLK)  
 - **Author:** Khal
